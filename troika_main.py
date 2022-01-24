@@ -22,4 +22,3 @@ for pred in troika.transform(ppg, acc):
     print(f"pred: {pred}, real: {ground_truth_hr[i]}")
     i += 1
 
-a = 9
