@@ -1,4 +1,4 @@
-# TTROIKA heart rate monitoring
+# TROIKA heart rate monitoring
 
 # TROIKA algorithm
 
